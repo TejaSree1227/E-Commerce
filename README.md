@@ -1,0 +1,21 @@
+# HTML Website Project
+
+This is a beginner-friendly web project created using *HTML, CSS, and JavaScript*.
+The project is hosted using *GitHub Pages*.
+
+## 🚀 Live Demo
+🔗 https://tejasree1227.github.io/E-Commerce/
+
+## 📌 Features
+- Clean and simple UI
+- Responsive design
+- Easy to understand code
+- Hosted for free on GitHub Pages
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+## 📂 Project Structure
