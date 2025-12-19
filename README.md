@@ -19,3 +19,10 @@ The project is hosted using *GitHub Pages*.
 - GitHub Pages
 
 ## 📂 Project Structure
+├── index.html
+├── style.css
+└── script.js
+
+📚 Purpose
+
+This project was created for learning and academic purposes as part of web development practice.
