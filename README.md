@@ -19,9 +19,9 @@ The project is hosted using *GitHub Pages*.
 - GitHub Pages
 
 ## 📂 Project Structure
--├── index.html
--├── style.css
--└── script.js
+├── index.html
+├── style.css
+└── script.js
 
 📚 Purpose
 
